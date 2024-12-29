@@ -1,0 +1,118 @@
+body{
+    height: 1000px;
+    width: 100%;
+    background-image: url(flower.jpg);
+    background-size:cover;
+}
+
+#intro{
+    text-align: center;
+    color: #722F37;
+    font-weight:700;
+    text-decoration:underline;
+}
+#heart{
+    color: red;
+    text-decoration: none;
+    text-align: center;
+}
+#shayari{
+    text-align: center;
+    font-size: 30px;
+}
+#photos{
+    font-size: 30px;
+    text-align: center;
+    text-decoration-line:underline;
+}
+h3{
+    font-size: 25px;
+    
+   
+}
+#name {
+    color: black;
+    font-size: 25px;
+}
+#n1{
+    font-size: 30px;
+}
+#insta {
+    color: black;
+    font-size: 25px;
+}
+#box{
+    height: 100%;
+    width: 100%;
+}
+
+#im{
+    height: 500px;
+    width: 500px;
+    background-image: url(anjalic_11_14031008_015158392.jpg);
+    background-size: cover;
+    margin-top: 15px;
+}
+#im1{
+    height: 500px;
+    width: 500px;
+    background-image: url(anjali\ 1.jpg);
+    background-size: cover;
+    margin-top: 15px;
+}
+#im2{
+    height: 500px;
+    width: 500px;
+    background-image: url(anjali\ 2.jpg);
+    background-size: cover;
+    margin-top: 15px;
+}
+#im3{
+    height: 500px;
+    width: 500px;
+    background-image: url(anjali\ 3.jpg);
+    background-size: cover;
+    margin-top: 15px;
+}
+#im4{
+    height: 500px;
+    width: 500px;
+    background-image: url(anjali\ 4.jpg);
+    background-size: cover;
+    margin-top: 15px;
+}
+#im5{
+    height: 500px;
+    width: 500px;
+    background-image: url(anjali\ 5.jpg);
+    background-size: cover;
+    margin-top: 15px;
+}
+#im6{
+    height: 500px;
+    width: 500px;
+    background-image: url(anja;i\ 6.jpg);
+    background-size: cover;
+    margin-top: 15px;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: underline double;
+    font-weight: 700;
+}
+#shayari{
+    height: 100%;
+    width: 100%;
+}
+#sh1{
+    color: white;
+}
+#tag{
+    text-align: center;
+    color:blue ;
+    font-size: 40px;
+    text-decoration: underline wavy;
+    text-shadow:0lh;
+}
